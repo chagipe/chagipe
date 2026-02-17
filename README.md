@@ -77,6 +77,11 @@ Actualmente enfocado en el desarrollo de software y ciberseguridad, aplicando co
 * ✓ Especialización en normativas de seguridad digital y marcos de gobernanza pública.
 * ✓ Conocimientos en protección de activos críticos y gestión de riesgos institucionales.
 
+* **ITIL V4 Foundation Certification Mastery Course 2026** — Udemy.
+* ✓ Dominio del Sistema de Valor del Servicio (SVS) y sus dimensiones organizacionales.
+* ✓ Aplicación de principios guía para la mejora continua y eficiencia operativa.
+* ✓ Enfoque en prácticas modernas de TI como Agile, DevOps y Lean IT.
+
 ---
 
 ## 🤝 ¿Te interesa?
