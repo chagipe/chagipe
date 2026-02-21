@@ -35,7 +35,7 @@ Actualmente enfocado en el desarrollo de software y ciberseguridad, aplicando co
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-### ⚙️ Automatización (Low-Code/No-Code)
+### ⚙️ Automatización
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
 
 ### 🛠️ Herramientas & DevOps
@@ -67,7 +67,7 @@ Actualmente enfocado en el desarrollo de software y ciberseguridad, aplicando co
 * ✓ Desarrollador de software y páginas web enfocado en la creación de soluciones digitales completas y funcionales.
 * ✓ Gestionar toda la infraestructura necesaria para su puesta en marcha y estabilidad.
 
-### 💼 ELYCE S.R.L
+### 💼 ELYCE S.R.L - Técnico de centro de asistencia
 * ↳ Distribuidora
 * ✓ Responsable de brindar soporte técnico integral y resolución de incidencias tecnológicas.
 * ✓ Mantenimiento preventivo y correctivo de equipos para asegurar la continuidad operativa.
