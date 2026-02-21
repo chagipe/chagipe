@@ -35,6 +35,9 @@ Actualmente enfocado en el desarrollo de software y ciberseguridad, aplicando co
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
+### ⚙️ Automatización (Low-Code/No-Code)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+
 ### 🛠️ Herramientas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -58,7 +61,7 @@ Actualmente enfocado en el desarrollo de software y ciberseguridad, aplicando co
 * ✓ Responsable del soporte técnico integral Nivel 1, asegurando la continuidad operativa mediante la gestión eficiente de incidencias y requerimientos de usuario.
 * ✓ Enfocado en el cumplimiento de los tiempos de respuesta y la satisfacción del cliente interno.
 
-### 💼 Freelance - Desarollador Web / Desarrollador de Software
+### 💼 Freelance - Desarrollador Web / Desarrollador de Software
 * ↳ Autónomo
 * ✓ Desarrollo y mejoras visuales.
 * ✓ Desarrollador de software y páginas web enfocado en la creación de soluciones digitales completas y funcionales.
@@ -68,7 +71,7 @@ Actualmente enfocado en el desarrollo de software y ciberseguridad, aplicando co
 * ↳ Distribuidora
 * ✓ Responsable de brindar soporte técnico integral y resolución de incidencias tecnológicas.
 * ✓ Mantenimiento preventivo y correctivo de equipos para asegurar la continuidad operativa.
-* ✓ Coordinación con áreas de logísitca.
+* ✓ Coordinación con áreas de logística.
   
 ---
 
