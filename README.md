@@ -14,7 +14,7 @@
 
 ## 👤 Sobre mí
 
-Profesional de IT con más de 3 años de experiencia en Soporte Técnico y Help Desk L1 & L2. Actualmente me desempeño como **Desarrollador Full Stack Jr.**, fusionando mi capacidad de resolución de problemas técnicos con la creación de software robusto. Mi enfoque es construir soluciones seguras y eficientes, gestionando no solo el código, sino toda la infraestructura necesaria para su estabilidad.
+Profesional de IT con más de 3 años de experiencia en **Soporte Técnico y Help Desk L1 & L2**. Actualmente me desempeño como **Desarrollador Full Stack Jr.**, fusionando mi capacidad de resolución de problemas con la creación de software robusto. Mi enfoque es construir soluciones digitales completas y funcionales, gestionando no solo el código, sino toda la infraestructura necesaria para su estabilidad.
 
 ---
 
@@ -27,13 +27,28 @@ Profesional de IT con más de 3 años de experiencia en Soporte Técnico y Help 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### 💻 Frontend & UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+### 🏗️ Infraestructura & Gestión IT
+![Jira Service Management](https://img.shields.io/badge/Jira_Service_Desk-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -45,12 +60,16 @@ Profesional de IT con más de 3 años de experiencia en Soporte Técnico y Help 
 * ✓ Gestión de infraestructura crítica: hosting, dominios y despliegue seguro.
 
 ### 💼 Ponte di Pietro — Técnico de Soporte TI
-* ↳ Soporte integral Nivel 1 & 2 asegurando continuidad operativa.
+* ↳ Responsable del soporte técnico integral Nivel 1 & 2.
+* ✓ Gestión eficiente de incidencias y aseguramiento de la continuidad operativa.
+
+### 💼 ELYCE S.R.L — Soporte Técnico
+* ↳ Mantenimiento preventivo y correctivo de equipos tecnológicos.
 
 ---
 
 ## 🎓 Certificaciones
-* **Diplomado en Gobernanza Digital y Ciberseguridad Institucional en el Estado** — UNICA.
+* **Diplomado en Gobernanza Digital y Ciberseguridad Institucional en el Estado** — Universidad Nacional San Luis Gonzaga de Ica.
 
 ---
 
@@ -66,3 +85,5 @@ Profesional de IT con más de 3 años de experiencia en Soporte Técnico y Help 
 📫 [sebastianbegazo@hotmail.com](mailto:sebastianbegazo@hotmail.com)  
 🌎 [LinkedIn](https://www.linkedin.com/in/sebastian-hiroshi-begazo-kobayashi-627190211)  
 🛠️ Portafolio: *en construcción*
+
+Gracias por visitar mi perfil 🙌
