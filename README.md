@@ -48,8 +48,9 @@ Profesional de IT con más de 3 años de experiencia en **Soporte Técnico y Hel
 ## 📌 Experiencia Reciente
 
 ### 💼 Freelance — Desarrollador Full Stack Jr.
-* ↳ Desarrollador de software y páginas web enfocado en la creación de soluciones digitales completas y funcionales.
-* ✓ Gestión de toda la infraestructura necesaria para su puesta en marcha y estabilidad.
+* ↳ Creación de soluciones digitales completas y funcionales.
+* ✓ Desarrollo E2E utilizando tecnologías modernas (Frontend & Backend).
+* ✓ Gestión de infraestructura crítica: hosting, dominios y despliegue seguro.
 
 ### 💼 Ponte di Pietro — Técnico de Soporte TI
 * ↳ Responsable del soporte técnico integral Nivel 1 & 2.
