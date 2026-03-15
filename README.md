@@ -18,53 +18,46 @@ Profesional de IT con más de 3 años de experiencia en **Soporte Técnico y Hel
 
 ---
 
-## 🧰 Tech Stack (Full Stack & IT)
+## 🧰 Tech Stack
 
-### 🚀 Backend & Bases de Datos
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### 🚀 BACKEND & BASES DE DATOS
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💻 Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+### 💻 FRONTEND & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🏗️ Infraestructura & Gestión IT
-![Jira Service Management](https://img.shields.io/badge/Jira_Service_Desk-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### 🏗️ INFRAESTRUCTURA & GESTIÓN IT
+![Jira Service Desk](https://img.shields.io/badge/Jira_Service_Desk-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📌 Experiencia Reciente
 
 ### 💼 Freelance — Desarrollador Full Stack Jr.
-* ↳ Creación de soluciones digitales completas y funcionales.
-* ✓ Desarrollo E2E utilizando tecnologías modernas (Frontend & Backend).
-* ✓ Gestión de infraestructura crítica: hosting, dominios y despliegue seguro.
+* ↳ Desarrollador de software y páginas web enfocado en la creación de soluciones digitales completas y funcionales.
+* ✓ Gestión de toda la infraestructura necesaria para su puesta en marcha y estabilidad.
 
 ### 💼 Ponte di Pietro — Técnico de Soporte TI
 * ↳ Responsable del soporte técnico integral Nivel 1 & 2.
-* ✓ Gestión eficiente de incidencias y aseguramiento de la continuidad operativa.
+* ✓ Asegurando la continuidad operativa mediante la gestión eficiente de incidencias.
 
 ### 💼 ELYCE S.R.L — Soporte Técnico
-* ↳ Mantenimiento preventivo y correctivo de equipos tecnológicos.
+* ↳ Responsable de brindar soporte técnico integral y resolución de incidencias tecnológicas.
+* ✓ Mantenimiento preventivo y correctivo de equipos para asegurar la continuidad operativa.
 
 ---
 
@@ -82,8 +75,11 @@ Profesional de IT con más de 3 años de experiencia en **Soporte Técnico y Hel
 ---
 
 ## 🤝 ¿Conectamos?
+
+Estoy abierto a nuevas oportunidades, proyectos interesantes o colaboraciones.
+
 📫 [sebastianbegazo@hotmail.com](mailto:sebastianbegazo@hotmail.com)  
 🌎 [LinkedIn](https://www.linkedin.com/in/sebastian-hiroshi-begazo-kobayashi-627190211)  
-🛠️ Portafolio: *en construcción*
+🛠️ Portafolio: *en construcción, pronto disponible*
 
 Gracias por visitar mi perfil 🙌
