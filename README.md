@@ -81,6 +81,6 @@ Estoy abierto a nuevas oportunidades, proyectos interesantes o colaboraciones.
 
 📫 [sebastianbegazo@hotmail.com](mailto:sebastianbegazo@hotmail.com)  
 🌎 [LinkedIn](https://www.linkedin.com/in/sebastian-hiroshi-begazo-kobayashi-627190211)  
-🛠️ Portafolio: *en construcción, pronto disponible*
+🛠️ Portafolio: *https://portafolio-woad-ten.vercel.app/*
 
 Gracias por visitar mi perfil 🙌
